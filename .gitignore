@@ -137,7 +137,7 @@ jspm_packages/
 
 # Scan results
 scan_results_*.json
-*.json
+package-lock.json
 
 # OS generated files
 .DS_Store
